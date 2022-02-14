@@ -1,5 +1,5 @@
 {
-  "name": "microverse-code-review-project",
+  "name": "microverse-review-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wuletawwonte/microverse-code-review-project.git"
+    "url": "git+https://github.com/wuletawwonte/microverse-review-project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wuletawwonte/microverse-code-review-project/issues"
+    "url": "https://github.com/wuletawwonte/microverse-review-project/issues"
   },
-  "homepage": "https://github.com/wuletawwonte/microverse-code-review-project#readme"
+  "homepage": "https://github.com/wuletawwonte/microverse-review-project#readme"
 }
